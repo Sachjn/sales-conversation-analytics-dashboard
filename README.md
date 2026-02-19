@@ -47,8 +47,8 @@ This dashboard provides a comprehensive view of sales performance across regions
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/sales-performance-analytics-dashboard.git
-cd sales-performance-analytics-dashboard
+git clone https://github.com/Sachjn/sales-conversation-analytics-dashboard.git
+cd sales-conversation-analytics-dashboard
 
 # 2. Install dependencies
 npm install
